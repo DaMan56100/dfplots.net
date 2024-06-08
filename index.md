@@ -11,6 +11,7 @@ More info @ [the discord](https://discord.gg/rxmfkDjy6c).
 - [croc](https://croc.dfplots.net/)
 - [crockiller](https://crockiller.dfplots.net/)
 - [dfnews](https://dfnews.dfplots.net/)
+- [event](https://event.dfplots.net/)
 - [velocity](https://velocity.dfplots.net/)
 - [www](https://www.dfplots.net/)
 - [xyz](http://xyz.dfplots.net/)
